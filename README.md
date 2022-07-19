@@ -23,7 +23,7 @@
   <a href="https://codepen.io/magdycka/pen/oNErEvQ">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
   </a>
-  <a href="https://discord.com/992374263921266688">
+  <a href="https://discordapp.com/users/992374263921266688">
     <img src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a> 
   </div>
