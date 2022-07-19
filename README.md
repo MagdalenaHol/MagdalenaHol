@@ -4,7 +4,7 @@
 </h1>
 <br>
   <p> I'm currentyly working on becoming full-stack developer 🌱 </p>
-  <p align="justify"> Enthusiast of crafting the visual aspects in web environments where simplicity and purpose meet. Most recently I've been contributed building apps from scratch with Python and some cool frameworks, managing postgreSQL database system as well, kepping everything as a backend story and performed it with useable and workable website form for user experience. I'm making a progress in web application development practising JavaScript, HTML, CSS. </p>
+  <p align="justify"> Enthusiast of crafting the visual aspects in web environments where simplicity and purpose meet. Most recently I've been contributed building apps from scratch with Python and some cool frameworks, managing postgreSQL database system as well, kepping everything as a backend story and performed it with useable and workable website form for user experience. I'm making progress in a web application development practising JavaScript, HTML, CSS. </p>
 <p>I'm open to keep up with the latest technology trends as well 💡</p>
 </div>
 <hr>
