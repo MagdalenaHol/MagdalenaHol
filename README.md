@@ -13,7 +13,7 @@
 
 <div id="badges" align="center">
 <p>How to reach me: </p>
-  <a href="">
+  <a href="https://www.linkedin.com/in/magdalena-ho%C5%82da-051293246/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:magdalena.holda2@gmail.com subject=subject text">
